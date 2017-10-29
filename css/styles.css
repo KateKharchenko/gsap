@@ -1,0 +1,27 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+svg {
+	box-sizing: border-box;
+	width: 90%;
+	padding: 10px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#beetroot {
+	fill: none;
+	stroke: #77c167;
+	stroke-width: .5px;
+	stroke-linecap: round;
+}
+
+#text {
+	fill: none;
+	stroke: none;
+	stroke-width: .5px;
+	stroke-linecap: round;
+}
